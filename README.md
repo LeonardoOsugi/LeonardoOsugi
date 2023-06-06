@@ -22,14 +22,8 @@
       Redis
       <img align="center" alt="Leo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
       MongoDB
-      <img align="center" alt="Leo-PostgresSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgressql/postgressql-original.svg">
-      PostgresSQL
       <img align="center" alt="Leo-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
       TypesCript
-      <img align="center" alt="Leo-PrismaORM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prismaorm/prismaorm-original.svg">
-      PrismaORM
-      <img align="center" alt="Leo-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-original.svg">
-      Jest
 </div>
   
 ##
