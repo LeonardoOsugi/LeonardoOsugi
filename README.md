@@ -94,6 +94,10 @@
               <img align="center" alt="Leo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
               Linux
             </td>
+            <td>
+               <img align="center" alt="Leo-PrismaORM" height="30" width="40" src="https://www.svgrepo.com/show/354210/prisma.svg">
+               PrismaORM
+            </td>
           </tr>
         </tbody>
       </table>
