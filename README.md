@@ -77,8 +77,22 @@
               React
             </td>
             <td>
-              <img align="center" alt="Leo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+              <img align="center" alt="Leo-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
               Jest
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img align="center" alt="Leo-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+              Docker
+            </td>
+            <td>
+              <img align="center" alt="Leo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+              Git
+            </td>
+            <td>
+              <img align="center" alt="Leo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+              Linux
             </td>
           </tr>
         </tbody>
