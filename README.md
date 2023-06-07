@@ -11,7 +11,6 @@
 </div>
 <div style="display: inline_block"><br>
       <p>Linguagens e Tecnologias</p>
-      </br>
       <table>
         <tbody>
           <tr>
