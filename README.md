@@ -47,11 +47,15 @@
               Redis
             </td>
             <td>
-              <img align="center" alt="Leo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-              MongoDB
+              <img align="center" alt="Leo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+              Node
             </td>
           </tr>
           <tr>
+            <td>
+               <img align="center" alt="Leo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+                MongoDB
+            </td>
             <td>
               <img align="center" alt="Leo-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
               MySql
