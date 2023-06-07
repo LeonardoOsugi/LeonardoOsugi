@@ -43,15 +43,15 @@
               CSS
             </td>
             <td>
-              <img align="center" alt="Leo-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-              Redis
-            </td>
-            <td>
               <img align="center" alt="Leo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
               Node
             </td>
           </tr>
           <tr>
+            <td>
+              <img align="center" alt="Leo-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+              Redis
+            </td>
             <td>
                <img align="center" alt="Leo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
                 MongoDB
