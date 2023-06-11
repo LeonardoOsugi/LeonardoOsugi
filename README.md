@@ -1,7 +1,6 @@
 ### Olá seja bem vindo!!!! Eu sou Leonardo Osugi.
 
 - 👨‍💻 Hoje estou desempregado, mas com muita vontade de aprender.
-- 📚 Estou estudando python, css, html, JavaScript, React.
 - 😄 Pronouns: ele/dele.
 
 <div align="center">
