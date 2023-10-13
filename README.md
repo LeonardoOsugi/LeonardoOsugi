@@ -102,7 +102,7 @@
             </td>
             <td>
               <img align="center" alt="Leo-TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
-              Tailwind CSS
+              TailwindCSS
             </td>
           </tr>
         </tbody>
