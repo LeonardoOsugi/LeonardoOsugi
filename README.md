@@ -108,6 +108,10 @@
               <img align="center" alt="Leo-TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/354521/vitejs.svg">
               <p>Vite.JS</p>
             </td>
+            <td>
+              <img align="center" alt="Leo-TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/306466/next-dot-js.svg">
+              <p>Next.JS</p>
+            </td>
           </tr>
         </tbody>
       </table>
