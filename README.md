@@ -100,6 +100,10 @@
                <img align="center" alt="Leo-PrismaORM" height="30" width="40" src="https://www.svgrepo.com/show/354210/prisma.svg">
                PrismaORM
             </td>
+            <td>
+              <img align="center" alt="Leo-TailwindCSS" height="30" width="40" src="https://icons8.com.br/icon/WoopfRcDj3RF/tailwind-css">
+              Tailwind
+            </td>
           </tr>
         </tbody>
       </table>
