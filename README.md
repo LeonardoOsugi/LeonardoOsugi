@@ -101,8 +101,8 @@
                PrismaORM
             </td>
             <td>
-              <img align="center" alt="Leo-TailwindCSS" height="30" width="40" src="https://icons8.com.br/icon/WoopfRcDj3RF/tailwind-css">
-              Tailwind
+              <img align="center" alt="Leo-TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
+              Tailwind CSS
             </td>
           </tr>
         </tbody>
