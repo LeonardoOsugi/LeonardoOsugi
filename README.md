@@ -18,11 +18,11 @@
           <tr>
             <td>
               <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-              Python
+              <p>Python</p>
             </td>
             <td>
               <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-              JavaScript
+              <p>JavaScript</p>
             </td>
             <td>
               <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -30,79 +30,79 @@
             </td>
             <td>
               <img align="center" alt="Leo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-              C
+              <p>C</p>
             </td>
             <td>
               <img align="center" alt="Leo-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-              C#
+              <p>C#</p>
             </td>
             <td>
               <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-              HTML
+              <p>HTML</p>
             </td>
             <td>
               <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-              CSS
+              <p>CSS</p>
             </td>
             <td>
               <img align="center" alt="Leo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-              Node
+              <p>Node</p>
             </td>
           </tr>
           <tr>
             <td>
                <img align="center" alt="Leo-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-               Express
+               <p>Express</p>
             </td>
             <td>
               <img align="center" alt="Leo-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-              Redis
+              <p>Redis</p>
             </td>
             <td>
                <img align="center" alt="Leo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-                MongoDB
+                <p>MongoDB</p>
             </td>
             <td>
               <img align="center" alt="Leo-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-              MySql
+              <p>MySql</p>
             </td>
             <td>
               <img align="center" alt="Leo-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-              Postgres
+              <p>Postgres</p>
             </td>
             <td>
               <img align="center" alt="Leo-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-              TypesCript
+              <p>TypesCript</p>
             </td>
             <td>
               <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-              React
+              <p>React</p>
             </td>
             <td>
               <img align="center" alt="Leo-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-              Jest
+              <p>Jest</p>
             </td>
           </tr>
           <tr>
             <td>
               <img align="center" alt="Leo-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-              Docker
+              <p>Docker</p>
             </td>
             <td>
               <img align="center" alt="Leo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-              Git
+              <p>Git</p>
             </td>
             <td>
               <img align="center" alt="Leo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-              Linux
+              <p>Linux</p>
             </td>
             <td>
                <img align="center" alt="Leo-PrismaORM" height="30" width="40" src="https://www.svgrepo.com/show/354210/prisma.svg">
-               PrismaORM
+               <p>PrismaORM</p>
             </td>
             <td>
               <img align="center" alt="Leo-TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
-              Tailwind
+              <p>TailwindCSS</p>
             </td>
           </tr>
         </tbody>
