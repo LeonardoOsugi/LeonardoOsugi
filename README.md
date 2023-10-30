@@ -105,12 +105,16 @@
               <p>TailwindCSS</p>
             </td>
             <td>
-              <img align="center" alt="Leo-TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/354521/vitejs.svg">
+              <img align="center" alt="ViteJS" height="30" width="40" src="https://www.svgrepo.com/show/354521/vitejs.svg">
               <p>Vite.JS</p>
             </td>
             <td>
-              <img align="center" alt="Leo-TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/306466/next-dot-js.svg">
+              <img align="center" alt="NextJS" height="30" width="40" src="https://www.svgrepo.com/show/306466/next-dot-js.svg">
               <p>Next.JS</p>
+            </td>
+            <td>
+              <img align="center" alt="Leo-MaterialUI" height="30 width="40" src="https://www.svgrepo.com/show/354048/material-ui.svg">
+              <p>Material UI</p>
             </td>
           </tr>
         </tbody>
