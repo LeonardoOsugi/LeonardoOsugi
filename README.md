@@ -3,7 +3,7 @@
 - 👨‍💻 Hoje estou desempregado, mas com muita vontade de aprender.
 - 😄 Pronouns: ele/dele.
 
-<img src="![Status](./perfil-3d-contrib/perfil-gitblock.svg)"/>
+## <img src="![Status](./perfil-3d-contrib/perfil-gitblock.svg)"/>
 
 <div align="center">
   <a href="https://github.com/LeonardoOsugi">
