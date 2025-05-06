@@ -3,7 +3,7 @@
 - 👨‍💻 Hoje estou desempregado, mas com muita vontade de aprender.
 - 😄 Pronouns: ele/dele.
 
-![Status](url)
+![Status](./perfil-3d-contrib/perfil-gitblock.svg)
 <div align="center">
   <a href="https://github.com/LeonardoOsugi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoOsugi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
