@@ -1,6 +1,6 @@
 ### Olá seja bem vindo!!!! Eu sou Leonardo Osugi.
 
-- 👨‍💻 Estou fazendo Estágio na Seccional Brasil.
+- 👨‍💻 Estou fazendo Estágio.
 - 😄 Pronouns: ele/dele.
 
 ## <img height="180em" src="https://media.tenor.com/Wjqoa16ntIsAAAAM/orang-utan-orang-utan-driving.gif"/>
