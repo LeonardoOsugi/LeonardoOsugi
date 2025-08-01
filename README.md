@@ -130,3 +130,4 @@ Meus links
   <img height="100em" src="https://media.tenor.com/Wjqoa16ntIsAAAAM/orang-utan-orang-utan-driving.gif"/>
 </div>
 
+![Snake animation](https://github.com/LeonardoOsugi/LeonardoOsugi/blob/output/github-contribution-grid-snake.svg)
