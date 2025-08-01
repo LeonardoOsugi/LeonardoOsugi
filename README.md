@@ -3,8 +3,6 @@
 - 👨‍💻 Estou fazendo Estágio.
 - 😄 Pronouns: ele/dele.
 
-## <img height="180em" src="https://media.tenor.com/Wjqoa16ntIsAAAAM/orang-utan-orang-utan-driving.gif"/>
-
 <div align="center">
   <a href="https://github.com/LeonardoOsugi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoOsugi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -126,11 +124,9 @@
 ##
 
 Meus links
-
-<div>
-<!--   <a href="mailto:leoosugi96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> -->
-
+<div style="display: inline-grid"><br>
+      <!--   <a href="mailto:leoosugi96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> -->
   <a href="https://www.linkedin.com/in/leonardo-osugi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <img height="100em" src="https://media.tenor.com/Wjqoa16ntIsAAAAM/orang-utan-orang-utan-driving.gif"/>
 </div>
 
