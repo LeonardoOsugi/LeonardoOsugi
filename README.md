@@ -3,12 +3,6 @@
 - 👨‍💻 Estou fazendo Estágio.
 - 😄 Pronouns: ele/dele.
 
-<div align="center">
-  <a href="https://github.com/LeonardoOsugi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoOsugi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoOsugi&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ##
 
 <div style="display: inline_block"><br>
@@ -126,8 +120,9 @@
 Meus links
 <div style="display: inline-grid"><br>
       <!--   <a href="mailto:leoosugi96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> -->
-  <a href="https://www.linkedin.com/in/leonardo-osugi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img height="100em" src="https://media.tenor.com/Wjqoa16ntIsAAAAM/orang-utan-orang-utan-driving.gif"/>
+  <a href="https://www.linkedin.com/in/leonardo-osugi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.99freelas.com.br/user/leonardo-osugi" target="_blank"><img src="https://img.shields.io/badge/-99freelas-%230077B5?style=for-the-badge&logo=99freelas&logoColor=white" target="_blank"></a>
+  <!--<img height="100em" src="https://media.tenor.com/Wjqoa16ntIsAAAAM/orang-utan-orang-utan-driving.gif"/>-->
 </div>
 
-![Snake animation](https://github.com/LeonardoOsugi/LeonardoOsugi/blob/output/github-contribution-grid-snake.svg)
+<!--- [Snake animation](https://github.com/LeonardoOsugi/LeonardoOsugi/blob/output/github-contribution-grid-snake.svg) -->
